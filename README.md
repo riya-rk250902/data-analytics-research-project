@@ -1,0 +1,2 @@
+The paper entitled "A Pragmatic Data Analytics Driven Investigation for attaining SDG for Energy Conservation Globally" presented at the 5th International Conference on Data Analytics and Management (ICDAM-2024), organized jointly by London Metropolitan University, London, UK in association with
+the WSG University, Bydgoszcz, Poland, Europe, Portalegre Polytechnic University, Portugal, Europe, SGGW Management Institute & BPIT, GGSIPU, Delhi on 14th – 15th June 2024.
